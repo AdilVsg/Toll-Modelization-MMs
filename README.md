@@ -1,6 +1,6 @@
 # Toll-Modelization-MMs: Toll Plaza Queueing Simulation
 
-![Author](https://img.shields.io/badge/Author-Your%20Name-blue)
+![Author](https://img.shields.io/badge/Author-Adil%20CHOUKAIRE-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Supported-013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Supported-11557c)
