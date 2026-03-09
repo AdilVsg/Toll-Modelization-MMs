@@ -20,6 +20,21 @@ Toll-Modelization-MMs/
 └── README.md
 ```
 
+## 🚀 Installation & Usage
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/Toll-Modelization-MMs.git
+cd Toll-Modelization-MMs
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🛠️ Scripts Description
 
 ### `src/main.py`
